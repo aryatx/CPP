@@ -1,0 +1,1 @@
+{"name":"Local: fastSearch","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\fastSearch.cpp","tests":[{"id":1751274766952,"input":"5\n10 1 10 3 4\n4\n1 10\n2 9\n3 4\n2 2\n","output":"5 2 2 0 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\fastSearch.cpp","group":"local","local":true}

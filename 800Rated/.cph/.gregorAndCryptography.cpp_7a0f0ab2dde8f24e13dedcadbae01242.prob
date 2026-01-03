@@ -1,0 +1,1 @@
+{"name":"Local: gregorAndCryptography","url":"c:\\Users\\jodar\\Desktop\\CPP\\800Rated\\gregorAndCryptography.cpp","tests":[{"id":1750842079973,"input":"2\n17\n5\n","output":"3 5\n2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\800Rated\\gregorAndCryptography.cpp","group":"local","local":true}

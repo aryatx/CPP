@@ -1,0 +1,1 @@
+{"name":"Local: 01game","url":"c:\\Users\\jodar\\Desktop\\CPP\\900Rated\\01game.cpp","tests":[{"id":1753975582018,"input":"3\n01\n1111\n0011\n","output":"DA\nNET\nNET\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\900Rated\\01game.cpp","group":"local","local":true}

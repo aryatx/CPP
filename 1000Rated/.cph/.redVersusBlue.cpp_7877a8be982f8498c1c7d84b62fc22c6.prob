@@ -1,0 +1,1 @@
+{"name":"Local: redVersusBlue","url":"c:\\Users\\jodar\\Desktop\\CPP\\1000Rated\\redVersusBlue.cpp","tests":[{"id":1755255908470,"input":"3\n7 4 3\n6 5 1\n19 13 6\n","output":"RBRBRBR\nRRRBRR\nRRBRRBRRBRRBRRBRRBR\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\1000Rated\\redVersusBlue.cpp","group":"local","local":true}

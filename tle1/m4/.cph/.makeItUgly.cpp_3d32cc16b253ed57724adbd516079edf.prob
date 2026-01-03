@@ -1,0 +1,1 @@
+{"name":"Local: makeItUgly","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m4\\makeItUgly.cpp","tests":[{"id":1752047706961,"input":"4\n3\n2 2 2\n5\n1 2 1 2 1\n1\n1\n7\n3 3 3 5 3 3 3\n","output":"-1\n1\n-1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m4\\makeItUgly.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: raisingBacteria","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m2\\raisingBacteria.cpp","tests":[{"id":1753816899110,"input":"5\n","output":"2\n"},{"id":1753816944492,"input":"8\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m2\\raisingBacteria.cpp","group":"local","local":true}

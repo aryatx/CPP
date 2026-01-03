@@ -1,0 +1,1 @@
+{"name":"Local: maximumAnd","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m3\\maximumAnd.cpp","tests":[{"id":1751538334688,"input":"1\n4 1\n3 4 5 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m3\\maximumAnd.cpp","group":"local","local":true}

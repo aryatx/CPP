@@ -1,0 +1,1 @@
+{"name":"Local: threeNumbers","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m3\\threeNumbers.cpp","tests":[{"id":1748670428895,"input":"2 1\n","output":"3\n"},{"id":1748671284399,"input":"9 4\n","output":"15\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m3\\threeNumbers.cpp","group":"local","local":true}

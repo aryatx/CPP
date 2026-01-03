@@ -1,0 +1,1 @@
+{"name":"Local: notAllFlavours","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m8\\notAllFlavours.cpp","tests":[{"id":1751710437230,"input":"2\n6 2\n1 1 1 2 2 1\n5 3\n1 1 2 2 1","output":"3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m8\\notAllFlavours.cpp","group":"local","local":true}

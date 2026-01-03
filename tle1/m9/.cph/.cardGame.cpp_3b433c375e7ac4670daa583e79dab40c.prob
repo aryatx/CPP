@@ -1,0 +1,1 @@
+{"name":"Local: cardGame","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m9\\cardGame.cpp","tests":[{"id":1751973470212,"input":"5\n3 8 2 6\n1 1 1 1\n10 10 2 2\n1 1 10 10\n3 8 7 2\n","output":"2\n0\n4\n0\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m9\\cardGame.cpp","group":"local","local":true}

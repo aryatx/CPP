@@ -1,0 +1,1 @@
+{"name":"Local: sumOfTwoValues","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m8\\sumOfTwoValues.cpp","tests":[{"id":1751529171561,"input":"4 8\n2 7 5 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m8\\sumOfTwoValues.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Users\\jodar\\Desktop\\CPP\\Contest\\CF\\1034\\a.cpp","tests":[{"id":1751383154068,"input":"5\n2\n4\n5\n7\n100\n","output":"Alice\nBob\nAlice\nAlice\nBob\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\Contest\\CF\\1034\\a.cpp","group":"local","local":true}

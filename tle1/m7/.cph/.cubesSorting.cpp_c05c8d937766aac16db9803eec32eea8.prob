@@ -1,0 +1,1 @@
+{"name":"Local: cubesSorting","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\cubesSorting.cpp","tests":[{"id":1751100617216,"input":"3\n5\n5 3 2 1 4\n6\n2 2 2 2 2 2\n2\n2 1\n","output":"YES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\cubesSorting.cpp","group":"local","local":true}

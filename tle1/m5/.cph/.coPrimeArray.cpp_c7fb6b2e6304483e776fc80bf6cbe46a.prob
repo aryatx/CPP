@@ -1,0 +1,1 @@
+{"name":"Local: coPrimeArray","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\coPrimeArray.cpp","tests":[{"id":1750666683047,"input":"3\n2 7 28\n","output":"1\n2 7 9 28\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\coPrimeArray.cpp","group":"local","local":true}

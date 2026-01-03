@@ -1,0 +1,1 @@
+{"name":"Local: maximumMultipleSum","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\maximumMultipleSum.cpp","tests":[{"id":1749383885346,"input":"2\n3\n15\n","output":"3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\maximumMultipleSum.cpp","group":"local","local":true}

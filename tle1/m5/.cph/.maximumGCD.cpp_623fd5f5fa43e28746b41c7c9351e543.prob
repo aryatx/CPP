@@ -1,0 +1,1 @@
+{"name":"Local: maximumGCD","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\maximumGCD.cpp","tests":[{"id":1750326537243,"input":"2\n3\n5\n","output":"1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m5\\maximumGCD.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: evenOddGame","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m7\\evenOddGame.cpp","tests":[{"id":1751360504739,"input":"4\n4\n5 2 7 3\n3\n3 2 1\n4\n2 2 2 2\n2\n7 8\n","output":"Bob\nTie\nAlice\nAlice\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m7\\evenOddGame.cpp","group":"local","local":true}

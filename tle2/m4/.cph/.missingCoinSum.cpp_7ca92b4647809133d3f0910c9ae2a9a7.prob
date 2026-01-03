@@ -1,0 +1,1 @@
+{"name":"Local: missingCoinSum","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m4\\missingCoinSum.cpp","tests":[{"id":1752739590009,"input":"5\n2 9 1 2 7","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m4\\missingCoinSum.cpp","group":"local","local":true}

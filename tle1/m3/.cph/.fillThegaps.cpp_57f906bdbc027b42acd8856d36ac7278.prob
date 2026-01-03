@@ -1,0 +1,1 @@
+{"name":"Local: fillThegaps","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m3\\fillThegaps.cpp","tests":[{"id":1748623666348,"input":"4\n2 5 1 2\n","output":"2 3 4 5 4 3 2 1 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m3\\fillThegaps.cpp","group":"local","local":true}

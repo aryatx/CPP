@@ -1,0 +1,1 @@
+{"name":"Local: closestToTheLeft","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\closestToTheLeft.cpp","tests":[{"id":1751096372413,"input":"5 5\n3 3 5 8 9\n2 4 8 1 10\n","output":"0\n2\n4\n0\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m7\\closestToTheLeft.cpp","group":"local","local":true}

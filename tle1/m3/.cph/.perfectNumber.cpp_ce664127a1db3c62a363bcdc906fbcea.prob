@@ -1,0 +1,1 @@
+{"name":"Local: perfectNumber","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m3\\perfectNumber.cpp","tests":[{"id":1752046397497,"input":"1\n","output":"19\n"},{"id":1752046405978,"input":"2\n","output":"28\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle1\\m3\\perfectNumber.cpp","group":"local","local":true}

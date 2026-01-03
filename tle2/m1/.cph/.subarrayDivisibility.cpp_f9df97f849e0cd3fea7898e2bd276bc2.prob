@@ -1,0 +1,1 @@
+{"name":"Local: subarrayDivisibility","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m1\\subarrayDivisibility.cpp","tests":[{"id":1753295761760,"input":"5\n3 1 2 7 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle2\\m1\\subarrayDivisibility.cpp","group":"local","local":true}

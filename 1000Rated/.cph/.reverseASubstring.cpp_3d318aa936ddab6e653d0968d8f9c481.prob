@@ -1,0 +1,1 @@
+{"name":"Local: reverseASubstring","url":"c:\\Users\\jodar\\Desktop\\CPP\\1000Rated\\reverseASubstring.cpp","tests":[{"id":1756225548286,"input":"7\nabacaba\n","output":"YES\n2 5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\1000Rated\\reverseASubstring.cpp","group":"local","local":true}

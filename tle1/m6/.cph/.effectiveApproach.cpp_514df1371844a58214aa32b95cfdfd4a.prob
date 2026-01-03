@@ -1,0 +1,1 @@
+{"name":"Local: effectiveApproach","url":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m6\\effectiveApproach.cpp","tests":[{"id":1749725859617,"input":"3\n3 1 2\n3\n1 2 3\n","output":"6 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jodar\\Desktop\\CPP\\tle\\m6\\effectiveApproach.cpp","group":"local","local":true}

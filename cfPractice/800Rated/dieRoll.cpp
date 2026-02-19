@@ -13,8 +13,16 @@ int main(){
         cin>>y>>w;
         
         y = max(y, w);
+        int num = 7-y;
+        int den = 6;
+        for(int i=2; i<=6; ++i){
+            if(num%i == 0 && den%i ==0){
+                num = num/i;
+                den = den/i;
+            }
+        }
 
-        cout<<7-y<<"/"<<6;
+        cout<<num<<"/"<<den;
     }      
   
 }

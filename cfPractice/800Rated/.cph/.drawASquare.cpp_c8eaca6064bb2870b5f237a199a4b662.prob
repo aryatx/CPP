@@ -1,0 +1,1 @@
+{"name":"Local: drawASquare","url":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/drawASquare.cpp","tests":[{"id":1771930598163,"input":"2\n2 2 2 2\n1 2 3 4\n","output":"Yes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/drawASquare.cpp","group":"local","local":true}

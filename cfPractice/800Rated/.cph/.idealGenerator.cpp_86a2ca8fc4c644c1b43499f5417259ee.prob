@@ -1,0 +1,1 @@
+{"name":"Local: idealGenerator","url":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/idealGenerator.cpp","tests":[{"id":1772214782767,"input":"5\n1\n2\n3\n73\n1000\n","output":"YES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/idealGenerator.cpp","group":"local","local":true}

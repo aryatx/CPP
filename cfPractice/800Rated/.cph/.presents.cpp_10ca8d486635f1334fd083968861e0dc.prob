@@ -1,0 +1,1 @@
+{"name":"Local: presents","url":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/presents.cpp","tests":[{"id":1773426852792,"input":"4\n2 3 4 1\n","output":"4 1 2 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/cfPractice/800Rated/presents.cpp","group":"local","local":true}

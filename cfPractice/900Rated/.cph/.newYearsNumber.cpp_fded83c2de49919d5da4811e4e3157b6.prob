@@ -1,0 +1,1 @@
+{"name":"Local: newYearsNumber","url":"/Users/aryathakur/Desktop/CPP/cfPractice/900Rated/newYearsNumber.cpp","tests":[{"id":1774978900238,"input":"5\n1\n4041\n4042\n8081\n8079\n","output":"NO\nYES\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/cfPractice/900Rated/newYearsNumber.cpp","group":"local","local":true}

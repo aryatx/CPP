@@ -1,0 +1,1 @@
+{"name":"Local: xorPyramidPeak","url":"/Users/aryathakur/Desktop/CPP/tle2/m8/xorPyramidPeak.cpp","tests":[{"id":1779370812601,"input":"8\n2 10 5 12 9 5 1 5","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/tle2/m8/xorPyramidPeak.cpp","group":"local","local":true}

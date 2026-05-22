@@ -1,0 +1,1 @@
+{"name":"Local: division","url":"/Users/aryathakur/Desktop/CPP/tle2/m8/division.cpp","tests":[{"id":1779458932969,"input":"3\n10 4\n12 6\n179 822\n","output":"10\n4\n179\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/tle2/m8/division.cpp","group":"local","local":true}

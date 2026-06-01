@@ -9,69 +9,54 @@ int main(){
     int tc{1};cin>>tc;
     
     while(tc--){
-        int n,x,seats;
-        cin>>n>>x>>seats;
+        int n,tables,seats;
+        cin>>n>>tables>>seats;
 
         string s;
         cin>>s;
 
-        vector<int> tables(x, 0);
-        int empt = 0, nempt = 0;
+        int ans = 0;
+        int ambi = 0;
+        int emptySeats = 0;
 
-        int seated = n;
-
-        for(int i=0; i<n; ++i){
-            if(s[i] == 'I' ){
-                if(empt != x){
-                    tables[empt] += 1;
-                    empt++;
+        for(int i=0; i<s.size(); ++i){
+            if(s[i] == 'I'){
+                if(tables){
+                    ans++;
+                    tables--;
+                    emptySeats += seats-1;
                 }
-                else seated--;
             }
-
             else if(s[i] == 'E'){
-                if(nempt < empt){
+                if(emptySeats){
+                    ans++;
+                    emptySeats--;
 
-                    if(tables[nempt] < seats){
-                        tables[nempt]++;
-                    }
-                    else{
-                        nempt++;
-                        bool done = false;
-                        while(nempt < empt){
-                     
-                            if(tables[nempt] < seats){
-                                tables[nempt]++;
-                                done = true;
-                                break;
-                            }
-
-                            nempt++;
-                        }
-
-                        if(!done){
-                            seated--;
-                        }
-                    }
-
-                    
                 }
-                else seated--;
+                else if(tables && ambi){
+                    ans++;
+                    tables--;
+                    ambi--;
+
+                    emptySeats += seats-1;
+                }
             }
 
             else{
-                int ext = 0, intr = 0;
-
-                for(int j=i+1; j<n; ++j){
-                    if(s[j] == 'E') ext++;
-                    else if(s[j] == 'I') intr++; 
+                if(emptySeats){
+                    ans++;
+                    emptySeats--;
+                    ambi++;
                 }
-
-
-                
+                else if(tables){
+                    ans++;
+                    tables--;
+                    emptySeats += seats-1;
+                }
             }
+        }
 
-        cout<<seated<<nl;
-    }      
-}
+        cout<<ans<<nl;
+ 
+    }
 }

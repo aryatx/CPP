@@ -11,6 +11,11 @@ int main(){
     int tc{1};cin>>tc;
     
     while(tc--){
+        int n, m, r, c;
+        cin>>n>>m>>r>>c;
+
+        int mod = 998244353;
+
         
     }      
   

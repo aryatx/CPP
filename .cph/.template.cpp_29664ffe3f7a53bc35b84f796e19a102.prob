@@ -1,0 +1,1 @@
+{"name":"Local: template","url":"/Users/aryathakur/Desktop/CPP/template.cpp","tests":[{"id":1782928809038,"input":"2 2\n1 99\n100 0\n","output":"YES\n"},{"id":1782928816109,"input":"10 1\n100 100\n","output":"NO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aryathakur/Desktop/CPP/template.cpp","group":"local","local":true}
